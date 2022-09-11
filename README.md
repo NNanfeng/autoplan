@@ -22,7 +22,7 @@ INSERT INTO `t_sys_quartz_job` (`id`, `job_name`, `job_group`, `invoke_target`, 
 ```
 
 ## 演示站地址
-<a href="https://auto.oldwu.top/" target="_blank">点击打开Auto Plan</a>
+<a href="https://auto.lilysama.top/" target="_blank">点击打开Auto Plan</a>
 
 **本人不会利用任何cookie，但是为了安全考虑，建议还是自己搭建运行环境**
 
